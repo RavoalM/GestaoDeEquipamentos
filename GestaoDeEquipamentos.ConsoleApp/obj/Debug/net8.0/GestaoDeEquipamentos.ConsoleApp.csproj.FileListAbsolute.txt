@@ -1,0 +1,15 @@
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.exe
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.deps.json
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.runtimeconfig.json
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\bin\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.pdb
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.AssemblyInfoInputs.cache
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.AssemblyInfo.cs
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.sourcelink.json
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\refint\GestaoDeEquipamentos.ConsoleApp.dll
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.pdb
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\GestaoDeEquipamentos.ConsoleApp.genruntimeconfig.cache
+C:\Academia\GestaoEquipamentosT\GestaoDeEquipamentos.ConsoleApp\obj\Debug\net8.0\ref\GestaoDeEquipamentos.ConsoleApp.dll
